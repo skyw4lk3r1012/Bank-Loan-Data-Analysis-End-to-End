@@ -1,4 +1,4 @@
-Bank Loan Report Dashboard
+**Bank Loan Report Dashboard
 Project Overview
 
 The Bank Loan Report Dashboard project focuses on analyzing and visualizing bank loan data to provide meaningful insights into lending performance and customer behavior. The main goal of this project is to help financial institutions monitor loan applications, understand repayment patterns, evaluate credit risk, and support data-driven decision making.
@@ -110,6 +110,10 @@ These insights help financial institutions evaluate lending strategies and reduc
 
 Conclusion
 
-The Bank Loan Report Dashboard demonstrates the value of data analytics in the banking and finance sector. By transforming raw loan data into clear and structured visual insights, this project enables organizations to monitor lending performance, evaluate credit risk, and make informed decisions.
+The Bank Loan Report Das
+hboard demonstrates the value of data analytics in the banking and finance sector. By transforming raw loan data into clear and structured visual insights, this project enables organizations to monitor lending performance, evaluate credit risk, and make informed decisions.
 
 The project highlights the importance of data analysis, visualization, and financial metrics in understanding loan portfolios and improving overall lending efficiency.
+
+Power BI Dashboard Link
+(https://app.powerbi.com/groups/me/reports/99d895c2-9e89-4a8d-bece-e01e130a099e?pbi_source=desktop)
